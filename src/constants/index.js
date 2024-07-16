@@ -44,14 +44,14 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional portfolio website showcasing social link,work experience and about section.",
-    technologies: ["HTML", "CSS", "React","Javascript","Bootstrap"],
+    technologies: ["HTML", "CSS", "React","Javascript","Tailwind"],
   },
   {
     title: "Task Management App",
     image: project3,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS","Javascript", "Firebase"],
+    technologies: ["HTML", "CSS","Javascript"],
   },
   {
     title: "Weather Website",
