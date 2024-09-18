@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile frontend developer wit
 
 export const EXPERIENCES = [
   {
-    year: "DEC-2023 : Present",
+    year: "DEC-2023 : APRIL-2024",
     role: "Project Intern",
     company: "Chinar Quantum AI",
     description: `I am currently working on creating question-answering models for different real life problems.Working on langchain and other modules to for the problem solving.`,
@@ -47,11 +47,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React","Javascript","Tailwind"],
   },
   {
-    title: "Task Management App",
+    title: "Network Simulator",
     image: project3,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS","Javascript"],
+      "An application implementing multiple layers of TCP/IP model of the computer networks,Like Physical layer,data-link layer etc",
+    technologies: ["Python", "Streamlit","NetworkX"],
   },
   {
     title: "Weather Website",
