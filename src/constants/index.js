@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     role: "Project Intern",
     company: "Chinar Quantum AI",
     description: `I worked on creating question-answering models for different real life problems.Working on langchain and other modules for the problem solving.`,
-    technologies: ["Python", "Streamlit", "NLP", "Langchain","OpenAI],
+    technologies: ["Python", "Streamlit", "NLP", "Langchain","OpenAI"],
   },
   {
     year: "AUG-2023 : DEC-2023",
