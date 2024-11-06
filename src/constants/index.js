@@ -3,7 +3,7 @@ import project1 from "../assets/projects/logo.jpg";
 import project2 from "../assets/projects/weather.jpg";
 import project3 from "../assets/projects/bot.jpg";
 
-export const HERO_CONTENT = `I am a passionate frontend developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in frontend technologies like React and Next.js, as well as Node.js, MySQL and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.I love to explore more about the fiels of AI and ML.`;
+export const HERO_CONTENT = `I am a passionate frontend developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in frontend technologies like React as well as Node.js, MySQL and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.I love to explore more about the fiels of AI and ML.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile frontend developer with a passion for creating efficient and user-friendly web applications. With 2 years of professional experience, I have worked with a variety of technologies, including React, Node.js, MySQL and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and delving deep into the field of machine learning and Artificial intelligence.`;
 
@@ -12,8 +12,8 @@ export const EXPERIENCES = [
     year: "DEC-2023 : APRIL-2024",
     role: "Project Intern",
     company: "Chinar Quantum AI",
-    description: `I am currently working on creating question-answering models for different real life problems.Working on langchain and other modules to for the problem solving.`,
-    technologies: ["Python", "Streamlit", "NLP", "Langchain"],
+    description: `I worked on creating question-answering models for different real life problems.Working on langchain and other modules for the problem solving.`,
+    technologies: ["Python", "Streamlit", "NLP", "Langchain","OpenAI],
   },
   {
     year: "AUG-2023 : DEC-2023",
